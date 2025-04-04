@@ -1,0 +1,2 @@
+Hi! i'm theystemYT! I upload files to repository i make. I upload these files or people who need it or want it. I also upload some of my own stuff here. Want to contact me? Here are ways on how you can do so.
+Ways on how to contact me: ![Static Badge](https://img.shields.io/badge/%40theystem-red?logo=YouTube)](youtube.com/@theystem) or ![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
