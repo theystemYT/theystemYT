@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 
 ## How to Contact Me:
 You can reach me through the following platforms:
-- [![Static Badge](https://img.shields.io/badge/%40YouTube-red?logo=YouTube)](https://www.youtube.com/@theystem)
+- [![Static Badge](https://img.shields.io/badge/YouTube-red?logo=YouTube)](https://www.youtube.com/@theystem)
 - [![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
 
 > Click on the Static Badges to go to the following platforms.
