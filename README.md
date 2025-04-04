@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 
 ## How to Contact Me:
 You can reach me through the following platforms:
-
-- [YouTube: @theystem](https://www.youtube.com/@theystem)  
-  [![Static Badge](https://img.shields.io/badge/%40theystem-red?logo=YouTube)](https://www.youtube.com/@theystem)
-
-- [ScriptBlox: @theystemYT](https://scriptblox.com/u/theystemYT)  
-  [![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
+- [![Static Badge](https://img.shields.io/badge/%40theystem-red?logo=YouTube)](https://www.youtube.com/@theystem)
+- [![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
 Feel free to check out my repositories!
