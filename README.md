@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 - I also create some of my own projects, creations, or scripts.
 
 ## What I'm Working On
-![Static Badge](https://img.shields.io/badge/theystem's%20Menu-grey?style=for-the-badge)]
-(https://github.com/theystemYT/theystems-Menu)
+![Static Badge](https://img.shields.io/badge/theystem's%20Menu-grey?style=for-the-badge)
 > Click on the Static Badge to go to the theystem's Menu repository.
 
 ## What I'm Planning To Work On
