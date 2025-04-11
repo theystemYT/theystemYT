@@ -22,5 +22,5 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 You can reach me through the following platforms:
 - [![Static Badge](https://img.shields.io/badge/YouTube-red?logo=YouTube)](https://www.youtube.com/@theystem)
 - [![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
-
+- [![Static Badge](https://img.shields.io/badge/work.ink-green)](https://1f81517695674ff7.workink.me/)
 > Click on the Static Badges to go to the following platforms.
