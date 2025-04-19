@@ -1,7 +1,6 @@
+> [!NOTE]
+> This repository 
 ![Static Badge](https://img.shields.io/badge/My%20Readme.md-green?style=for-the-badge&logo=kotlin&logoColor=yellow)
-
-![Static Badge](https://img.shields.io/badge/Forks%20are%20not%20allowed%20on%20this%20repository-grey)
-![Static Badge](https://img.shields.io/badge/due%20to%20the%20copyright%20license.-yellow)
 # Hi, I'm theystemYT!
 
 Welcome to my GitHub profile! I create and upload repositories for anyone who may find them useful. Whether it's for specific projects, tools, or personal creations, I share files that can help others or just showcase my work.
