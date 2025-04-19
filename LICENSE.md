@@ -1,6 +1,6 @@
 Copyright (©) 2025 theystemYT
 
-All Rights Reserved
+All Rights Reserved.
 > [!NOTE]
 > Want to reach me? Checkout my profile overview, where my profile README.md is at.
 # License
