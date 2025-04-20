@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 - I also create some of my own projects, creations, or scripts.
 
 ## What I'm Working On
-[![Static Badge](https://img.shields.io/badge/theystem's%20Menu%20V2-green?style=for-the-badge)](https://github.com/theystemYT/theystems-Menu-V2/tree/main)
+[![Static Badge](https://img.shields.io/badge/theystem's%20Menu%20V2-green?style=for-the-badge)](https://github.com/theystemYT/theystems-Menu-V2)
 > Click on the Static Badge to go to theystem's Menu V2 repository.
 ## How to Contact Me:
 You can reach me through the following platforms:
