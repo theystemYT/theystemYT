@@ -1,5 +1,5 @@
 > [!NOTE]
-> Forks are not allowed on this repository due to the [copyright license](https://github.com/theystemYT/theystemYT/blob/main/LICENSE.md).
+> Forks are not allowed on this repository due to the [copyright license](LICENSE.md).
 # Hi, I'm theystemYT!
 
 Welcome to my GitHub profile! I create and upload repositories for anyone who may find them useful. Whether it's for specific projects, tools, or personal creations, I share files that can help others or just showcase my work.
