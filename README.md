@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I create and upload repositories for anyone who ma
 
 ## What I'm Working On
 [![Static Badge](https://img.shields.io/badge/theystem's%20Menu-grey?style=for-the-badge)](https://github.com/theystemYT/theystems-Menu)
+> [!NOTE]
 > Click on the Static Badge to go to the theystem's Menu repository.
 
 ## What I'm Planning To Work On
@@ -20,4 +21,5 @@ You can reach me through the following platforms:
 - [![Static Badge](https://img.shields.io/badge/YouTube-red?logo=YouTube)](https://www.youtube.com/@theystem)
 - [![Static Badge](https://img.shields.io/badge/ScriptBlox-purple)](https://scriptblox.com/u/theystemYT)
 - [![Static Badge](https://img.shields.io/badge/work.ink-green)](https://1f81517695674ff7.workink.me/)
-> Click on the Static Badges to go to the following platforms.
+> [!NOTE]
+> Click on the Static Badge to go to the following platform.
