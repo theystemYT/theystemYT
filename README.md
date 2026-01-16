@@ -1,8 +1,8 @@
-> [!NOTE]
+> [!WARNING]
 > Forks are not allowed on this repository due to the [copyright license](LICENSE.md).
 # Hi, I'm theystemYT!
 
-Welcome to my GitHub profile! I create and upload repositories for anyone who may find them useful. Whether it's for specific projects, tools, or personal creations, I share files that can help others or just showcase my work.
+Welcome to my GitHub profile! I create and upload repositories for anyone who may find them useful. Whether it's for specific projects, tools, or personal creations, I have files that can help others or just showcase my work.
 
 ## What I Do:
 - I upload various files to my repositories, designed for anyone who needs them or is interested in using them.
