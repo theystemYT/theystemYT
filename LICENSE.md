@@ -1,4 +1,4 @@
-Copyright (©) 2025 theystemYT
+Copyright (©) 2026 theystemYT
 
 All Rights Reserved.
 > [!NOTE]
